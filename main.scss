@@ -1,0 +1,13 @@
+body {
+	background-image: url("/images/body_bg.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-color: black;
+}
+
+$theme-colors: (
+    "primary": #327035,
+    "blue": #037bfc,
+);
+
+@import "node_modules/bootstrap/scss/bootstrap";
