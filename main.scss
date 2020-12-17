@@ -7,7 +7,8 @@ body {
 
 $theme-colors: (
     "primary": #327035,
-    "blue": #037bfc,
+	"blue": #037bfc,
+	"secondary": #e3e3e3,
 );
 
 @import "node_modules/bootstrap/scss/bootstrap";
